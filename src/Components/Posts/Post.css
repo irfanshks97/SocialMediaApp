@@ -1,0 +1,12 @@
+.post_card {
+  margin: 20px 50px;
+  display: flex;
+  flex-direction: column;
+  width: 310px !important;
+}
+.reactions {
+  margin-top: 20px;
+  height: 70px;
+  text-align: center;
+  padding: 10px;
+}
